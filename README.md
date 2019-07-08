@@ -14,3 +14,28 @@ MySQL 8.0.16
 ![GitHub Logo](/Extra/Connector.jpg)
 
 2. Start "Main.py".
+
+## Info
+1. Info about user.
+
+![GitHub Logo](/Extra/FirstTab.jpg)
+
+2. Rating for day.
+
+![GitHub Logo](/Extra/TabSecond.jpg)
+
+3. Rating for week.
+
+![GitHub Logo](/Extra/TabThird.jpg)
+
+4. Rating for month.
+
+![GitHub Logo](/Extra/TabFourth.jpg)
+
+5. Rating for year.
+
+![GitHub Logo](/Extra/TabFifth.jpg)
+
+6. Admin panel.
+
+![GitHub Logo](/Extra/AdminPanel.jpg)
