@@ -3,7 +3,7 @@ First version of employee advisor .
 
 ![GitHub Logo](/Extra/Promo.jpg)
 
-Requirements for use
+## Requirements for use
 1. 5 day working day.
 2. 8 working hours per day.
 3. Holidays are not taken into account.
