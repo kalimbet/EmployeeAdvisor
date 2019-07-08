@@ -11,4 +11,6 @@ MySQL 8.0.16
 ## Instruction to run
 1. Write your settings in "Modules/Connectors/Connection.py".
 
+![GitHub Logo](/Extra/Connector.jpg)
+
 2. Start "Main.py".
