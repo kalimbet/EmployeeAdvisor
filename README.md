@@ -1,6 +1,8 @@
 # EmployeeAdvisor
 First version of employee advisor .
 
+![GitHub Logo](/Extra/Promo.jpg)
+
 ## Requirements to run
 IDE PyCharm
 
