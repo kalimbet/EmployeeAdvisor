@@ -15,10 +15,10 @@ MySQL 8.0.16
 
 2. Start "Main.py".
 
-## Info
+## Screenshots
 1. Info about user.
 
-![GitHub Logo](/Extra/FirstTab.jpg)
+![GitHub Logo](/Extra/TabFirst.jpg)
 
 2. Rating for day.
 
