@@ -25,9 +25,8 @@ MySQL 8.0.16
    4. After the working year, select the user and click (*User -> Rating for year*).
 
 2. Register a new user.
-   1. (*Admin panel -> Register a new user*).
-   2. Add information about the new user (Name, Surname ...).
-   3. (*Admin panel -> Train recognizer*). 
+   1. (*Admin panel -> Register a new user*) and add information about the new user (Name, Surname ...).
+   2. (*Admin panel -> Train recognizer*). 
 
 ## Screenshots
 1. Info about user.
