@@ -15,6 +15,18 @@ MySQL 8.0.16
 
 2. Start "Main.py".
 
+## Information for use.
+1. Calculate rating.
+   1. After a working day, select a user and click (*User -> Rating for day*) and write about the status of task.
+   2. After the work week, select the user and click (*User -> Rating for week*).
+   3. After the working month, select the user and click (*User -> Rating for month*).
+   4. After the working year, select the user and click (*User -> Rating for year*).
+
+2. Register a new user.
+   1. (*Admin panel -> Register a new user*).
+   2. Add information about the new user (Name, Surname ...).
+   3. (*Admin panel -> Train recognizer*). 
+
 ## Screenshots
 1. Info about user.
 
