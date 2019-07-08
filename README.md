@@ -3,6 +3,11 @@ First version of employee advisor .
 
 ![GitHub Logo](/Extra/Promo.jpg)
 
+1. 5 day working day.
+2. 8 working hours per day.
+3. Holidays are not taken into account.
+4. Using the project management method SCRUM.
+
 ## Requirements to run
 IDE PyCharm
 
@@ -25,7 +30,7 @@ MySQL 8.0.16
    4. After the working year, select the user and click (*User -> Rating for year*).
 
 2. Register a new user.
-   1. (*Admin panel -> Register a new user*) and add information about the new user (Name, Surname ...).
+   1. (*Admin panel -> Register a new user*) and add information about the new user (Name, Surname, ...).
    2. (*Admin panel -> Train recognizer*). 
 
 ## Screenshots
