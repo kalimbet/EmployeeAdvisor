@@ -23,7 +23,7 @@ MySQL 8.0.16
 
 2. Start "Main.py".
 
-## Information for use.
+## Information for use
 1. Calculate rating.
    1. After a working day, select a user and click (*User -> Rating for day*) and write about the status of task.
    2. After the work week, select the user and click (*User -> Rating for week*).
