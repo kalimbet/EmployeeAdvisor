@@ -4,7 +4,7 @@ First version of employee advisor .
 ![GitHub Logo](/Extra/Promo.jpg)
 
 ## Requirements for use
-1. 5 day working day.
+1. 5 day working week.
 2. 8 working hours per day.
 3. Holidays are not taken into account.
 4. Using the project management method SCRUM.
